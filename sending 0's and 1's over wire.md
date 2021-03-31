@@ -53,8 +53,24 @@ When sending data over radio waves radio antenna has coil by varying the voltage
 ![image](https://user-images.githubusercontent.com/23136463/113189794-37cfde80-9279-11eb-9295-98c8d5f14bf8.png)
 ![image](https://user-images.githubusercontent.com/23136463/113189998-78c7f300-9279-11eb-944c-e658de5faf69.png)
 ![image](https://user-images.githubusercontent.com/23136463/113190070-8c735980-9279-11eb-8690-cba690a92577.png)
+![image](https://user-images.githubusercontent.com/23136463/113190458-ee33c380-9279-11eb-89b9-04f533e0f838.png)
+1000BASE-T uses all 4 pairs of cable other standard only uses two pairs the orange pair is used for transmitting and green pair is used for receiving
+![image](https://user-images.githubusercontent.com/23136463/113190807-64d0c100-927a-11eb-8705-6acb84e9a9ae.png)
 
+![image](https://user-images.githubusercontent.com/23136463/113190853-73b77380-927a-11eb-9b2c-145658e62889.png)
+![image](https://user-images.githubusercontent.com/23136463/113191271-f7716000-927a-11eb-8b5c-165438f378ab.png)
+![image](https://user-images.githubusercontent.com/23136463/113191398-1ec82d00-927b-11eb-936d-b50615da0f6a.png)
+![image](https://user-images.githubusercontent.com/23136463/113191633-6b136d00-927b-11eb-9863-887e9d524083.png)
+![image](https://user-images.githubusercontent.com/23136463/113191693-7b2b4c80-927b-11eb-9640-9c9cbfca811c.png)
+![image](https://user-images.githubusercontent.com/23136463/113191727-83838780-927b-11eb-89fc-194334d09235.png)
+![image](https://user-images.githubusercontent.com/23136463/113191755-8c745900-927b-11eb-9e41-b0a7c6779bf1.png)
 
-
+![image](https://user-images.githubusercontent.com/23136463/113191795-9ac27500-927b-11eb-900d-625debd3284f.png)
+![image](https://user-images.githubusercontent.com/23136463/113191824-a44bdd00-927b-11eb-9f44-10f28cfda6ff.png)
+![image](https://user-images.githubusercontent.com/23136463/113191943-ca717d00-927b-11eb-87a7-6d3623d5e591.png)
+![image](https://user-images.githubusercontent.com/23136463/113192017-e2490100-927b-11eb-9c16-1476be102c75.png)
+bytes are sent in reverse order
+![image](https://user-images.githubusercontent.com/23136463/113192172-145a6300-927c-11eb-8952-a67265794636.png)
+![image](https://user-images.githubusercontent.com/23136463/113192332-3e138a00-927c-11eb-95ca-c05b36f0b5df.png)
 
 
