@@ -21,14 +21,25 @@ Types of framing used
     of bytes in an ethernet frame but in case of an error the ethernet frame has to be resend so there is a tradeoff
     between efficiency and being able to quick recover from any error by sending small frames in practise frame size
     varies from 64 bytes to 1500 bytes in high performance network in can be 9000 bytes long called jumbo frames
-    
     # Point to Point link
     one computer directly computer to another computer via cable(point to point data link)
     if one computer wants to send information it puts that data into frames and other computer decodes it
-    
     point to point links is commonly used in larger network like ISP networks point to poin links are used to connect networking equipments like two routers etc 
     mainly uses fiber optics cables for long distances
-    
     # Multipoint link or Broadcast link(cable modem home internet connection same cable is shared with multiple users, multiple computers connected together via ethernet switch)
     ![image](https://user-images.githubusercontent.com/23136463/113197130-ed069480-9281-11eb-8d8f-4c955bd1d8b0.png)
+    # Format of ethernet frames
+    Ethernet frame has sorce and destination address because more than one computer is connected to same ethernet network each computer has a unique ethernet address (mac address)
+    if one computer wants to send data to all it puts the broadcast address all f's in destination address ethernet type tells the format or type of payload that helps the receiver to decode the payload in most cases the payload will be ip packet(0800) the payload size is between 64-1500 bytes long in high performance n/w it can be as large as 9000 bytes the sender will compute the checksequence(src,dest add, ether type and payload) of all the data in the frame and will add to frame check sequence the receiver will use it to verify the data is not corrupted in transit if its corrupted receiver will ignore it and sender has to resend it
+    ![image](https://user-images.githubusercontent.com/23136463/113199134-656e5500-9284-11eb-9051-98a04df50b4e.png)
+    
+    
+    
+ # Point to Point protocol is used in point to point data link
+ 
+ PPP frame format- it uses hdlc framing technique
+ ![image](https://user-images.githubusercontent.com/23136463/113199752-1ecd2a80-9285-11eb-83e3-e7e372b2ba4b.png)
+
+    
+
 
